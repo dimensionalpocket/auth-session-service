@@ -17,7 +17,7 @@ Add this to your `Cargo.toml`:
 <!-- x-release-please-start-version -->
 ```toml
 [dependencies]
-dp-auth-session-service = { git = "https://github.com/dimensionalpocket/auth-session-service-rust", tag = "0.0.0" }
+dp-auth-session-service = { git = "https://github.com/dimensionalpocket/auth-session-service-rust", tag = "0.1.0" }
 ```
 <!-- x-release-please-end -->
 
