@@ -1,0 +1,19 @@
+[package]
+name = "dp-auth-session-service"
+version = "0.0.0"
+edition = "2021"
+description = "Independent authentication session service for token encoding/decoding"
+license = "MIT"
+repository = "https://github.com/dimensionalpocket/auth-session-service-rust"
+authors = ["Dimensional Pocket <dimensionalpocket.com>"]
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+aes-gcm = "0.10"
+base64 = "0.22"
+chrono = { version = "0.4", features = ["serde"] }
+rand = "0.8"
+
+[dev-dependencies]
+tempfile = "3.0"
