@@ -1,0 +1,6 @@
+{
+  "release-type": "rust",
+  "include-v-in-tag": false,
+  "extra-files": ["README.md"],
+  "bootstrap-sha": "c7d3eefdc1ec55668056fcefa4b781595d5d4b59"
+}
