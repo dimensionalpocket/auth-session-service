@@ -1,0 +1,5 @@
+{
+  "release-type": "rust",
+  "include-v-in-tag": false,
+  "extra-files": ["README.md"]
+}
