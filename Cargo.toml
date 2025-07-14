@@ -1,6 +1,6 @@
 [package]
 name = "dp-auth-session-service"
-version = "0.0.0"
+version = "0.1.0"
 edition = "2021"
 description = "Independent authentication session service for token encoding/decoding"
 license = "MIT"
